@@ -1,0 +1,19 @@
+{
+    "username": "unittesting@chale.dreamforce.com", 
+    "environment": "developer", 
+    "project_name": "UnitTesting", 
+    "workspace": "/Users/mike.chale/Documents/workspaces", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "5DEHK2Q4E5WQF5V0MNJOWCZMINA53ATA", 
+    "metadata_container": "1dc37000000Hv11AAC", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

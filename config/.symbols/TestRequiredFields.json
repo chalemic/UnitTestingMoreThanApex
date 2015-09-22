@@ -1,0 +1,65 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "TestRequiredFields", 
+    "tableDeclaration": {
+        "type": "TestRequiredFields", 
+        "modifiers": [
+            "private", 
+            "testMethod"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 15, 
+            "line": 2
+        }, 
+        "name": "TestRequiredFields"
+    }, 
+    "key": "01p37000001tOW7AAM", 
+    "variables": [
+        {
+            "type": "Lead", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 10
+            }, 
+            "name": "testLead"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 14, 
+                "line": 21
+            }, 
+            "name": "expectedStatusCode"
+        }
+    ], 
+    "id": "01p37000001tOW7AAM", 
+    "methods": [
+        {
+            "modifiers": [
+                "private", 
+                "static", 
+                "testMethod"
+            ], 
+            "name": "CompanySizeRequired", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 34, 
+                "line": 8
+            }, 
+            "returnType": "void", 
+            "type": null
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "TestValidationRules", 
+    "tableDeclaration": {
+        "type": "TestValidationRules", 
+        "modifiers": [
+            "private", 
+            "testMethod"
+        ], 
+        "references": [], 
+        "location": {
+            "column": 15, 
+            "line": 2
+        }, 
+        "name": "TestValidationRules"
+    }, 
+    "key": "01p37000001tOVsAAM", 
+    "variables": [
+        {
+            "type": "Lead", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 11
+            }, 
+            "name": "testLead"
+        }, 
+        {
+            "type": "LeadConvert", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 26, 
+                "line": 16
+            }, 
+            "name": "lc"
+        }, 
+        {
+            "type": "LeadStatus", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 18
+            }, 
+            "name": "convertStatus"
+        }, 
+        {
+            "type": "LeadConvertResult", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 34, 
+                "line": 23
+            }, 
+            "name": "lcr"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 14, 
+                "line": 28
+            }, 
+            "name": "expectedStatusCode"
+        }
+    ], 
+    "id": "01p37000001tOVsAAM", 
+    "methods": [
+        {
+            "modifiers": [
+                "private", 
+                "static", 
+                "testMethod"
+            ], 
+            "name": "ContactInformationRequiredForLeadConversion", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 34, 
+                "line": 9
+            }, 
+            "returnType": "void", 
+            "type": null
+        }
+    ]
+}

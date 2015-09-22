@@ -1,0 +1,80 @@
+{
+    "TestApprovalProcesses.cls": {
+        "createdById": "00537000000FMxwAAG", 
+        "createdByName": "Unit Tester", 
+        "createdDate": "2015-08-01 09:58:57", 
+        "fileName": "unpackaged/classes/TestApprovalProcesses.cls", 
+        "fullName": "TestApprovalProcesses", 
+        "id": "01p37000001tOvmAAE", 
+        "lastModifiedById": "00537000000FMxwAAG", 
+        "lastModifiedByName": "Unit Tester", 
+        "lastModifiedDate": "2015-08-01 10:31:30", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "TestLookupFilters.cls": {
+        "createdById": "00537000000FMxwAAG", 
+        "createdByName": "Unit Tester", 
+        "createdDate": "2015-08-01 07:56:17", 
+        "fileName": "unpackaged/classes/TestLookupFilters.cls", 
+        "fullName": "TestLookupFilters", 
+        "id": "01p37000001tOW2AAM", 
+        "lastModifiedById": "00537000000FMxwAAG", 
+        "lastModifiedByName": "Unit Tester", 
+        "lastModifiedDate": "2015-08-01 08:03:56", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "TestProcessBuilder.cls": {
+        "createdById": "00537000000FMxwAAG", 
+        "createdByName": "Unit Tester", 
+        "createdDate": "2015-08-01 10:23:24", 
+        "fileName": "unpackaged/classes/TestProcessBuilder.cls", 
+        "fullName": "TestProcessBuilder", 
+        "id": "01p37000001tOw1AAE", 
+        "lastModifiedById": "00537000000FMxwAAG", 
+        "lastModifiedByName": "Unit Tester", 
+        "lastModifiedDate": "2015-08-01 11:01:45", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "TestProcessBuilder2.cls": {
+        "createdById": "00537000000FMxwAAG", 
+        "createdByName": "Unit Tester", 
+        "createdDate": "2015-08-01 10:59:11", 
+        "fileName": "unpackaged/classes/TestProcessBuilder2.cls", 
+        "fullName": "TestProcessBuilder2", 
+        "id": "01p37000001tP2ZAAU", 
+        "lastModifiedById": "00537000000FMxwAAG", 
+        "lastModifiedByName": "Unit Tester", 
+        "lastModifiedDate": "2015-08-14 10:19:30", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "TestRequiredFields.cls": {
+        "createdById": "00537000000FMxwAAG", 
+        "createdByName": "Unit Tester", 
+        "createdDate": "2015-08-01 07:57:00", 
+        "fileName": "unpackaged/classes/TestRequiredFields.cls", 
+        "fullName": "TestRequiredFields", 
+        "id": "01p37000001tOW7AAM", 
+        "lastModifiedById": "00537000000FMxwAAG", 
+        "lastModifiedByName": "Unit Tester", 
+        "lastModifiedDate": "2015-09-17 14:39:44", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "TestValidationRules.cls": {
+        "createdById": "00537000000FMxwAAG", 
+        "createdByName": "Unit Tester", 
+        "createdDate": "2015-08-01 07:02:36", 
+        "fileName": "unpackaged/classes/TestValidationRules.cls", 
+        "fullName": "TestValidationRules", 
+        "id": "01p37000001tOVsAAM", 
+        "lastModifiedById": "00537000000FMxwAAG", 
+        "lastModifiedByName": "Unit Tester", 
+        "lastModifiedDate": "2015-09-17 14:18:41", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }
+}
